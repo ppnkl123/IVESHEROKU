@@ -5,7 +5,6 @@ session_values.txt
 *.DS_Store
 *.pb
 *.spec
-Tensorflow/
-questionnaire/
+Tensorflow
 build/
 dist/
